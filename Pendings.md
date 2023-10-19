@@ -35,6 +35,7 @@
 	+ https://docs.fivem.net/docs/  
 ## Mapear : 
 + Instalar CodeWalker (https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map/download/146918)
++ Instalar Blender (https://www.blender.org/download/)
 + Tener en cuenta la usabilidad que tenga en el rol la estructura que están creando
 ## Imágenes : 
 + Utilizar alguno de los siguientes programas: 
